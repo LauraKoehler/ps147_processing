@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Köhler"
+  given-names: "Laura"
+title: "PS147: Processing of atmospheric measurements"
+repository-code: "https://github.com/LauraKoehler/ps147_processing"
+abstract: "Scripts and shipspy settings for processing the atmospheric data collected during the PS147 ship campaign."
+version: v1.0.0
+date-released: '2025-10-02'
