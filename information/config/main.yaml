@@ -1,0 +1,10 @@
+campaign: PS147
+campaign_id: PS147
+platform: PS
+location: Atlantic
+data_version: v1.0.0
+configs:
+    main: config/main.yaml  # name of this file
+    level0: config/level0_mwx.yaml
+    level1: config/level1.yaml
+    level2: config/level2.yaml
