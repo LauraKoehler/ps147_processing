@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<export type="datalog">
+       
+    <order time="1757585723">
+              
+        <mail>laura.koehler@awi.de</mail>
+              
+        <output exportevents="false" type="TXT" user="laura.koehler">ps147_dship</output>
+           
+    </order>
+       
+    <description>
+              
+        <time filtered="true">
+                     
+            <starttime>1741780800</starttime>
+                     
+            <endtime>1744617600</endtime>
+                     
+            <interval displayunit="s">1000</interval>
+                  
+        </time>
+              
+        <fileformat datetimeformat="YYYY/MM/DD HH:mm:ss" decimalsymbol="." endofrecordmarker="\n" separator=";"/>
+              
+        <channellist errorvaluealphanumeric=" " errorvaluenumeric="9" includeinvalidvalues="false">
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:FERRYBOX.FBOX.flntu_chlorophyll</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:FERRYBOX.FBOX.co2ft_a_pco2_corr</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:FERRYBOX.FBOX.optode_oxygen</channel>
+                     
+            <channel angle="none" format="1234" max="false" mean="false" meanvalidity="false" min="false" precision="0" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:FERRYBOX.FBOX.ph</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:FERRYBOX.FBOX.flntu_turbidity</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:SYS.STR.DPT</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:SYS.STR.HDG</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="6" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:SYS.STR.PosLat</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="6" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:SYS.STR.PosLon</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:SYS.CALC.SPEED_kmh</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:MAGNETICS.PSMAG.gyro_pitch</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:MAGNETICS.PSMAG.gyro_roll</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="2" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:TSG_KEEL.SBE21.Conductivity</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="2" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:TSG_KEEL.SBE21.Salinity</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="2" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:TSG_KEEL.SBE21.SoundVeloExt</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="2" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:TSG_KEEL.SBE21.TempExtern</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.air_pressure</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.air_temperature</channel>
+                     
+            <channel angle="none" format="123" max="false" mean="false" meanvalidity="false" min="false" precision="0" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.ceiling_m</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.dewpoint</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="3" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.global_radiation</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.rel_humidity</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.true_wind_direction</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.true_wind_velocity</channel>
+                     
+            <channel angle="none" format="123" max="false" mean="false" meanvalidity="false" min="false" precision="0" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.visibility</channel>
+                     
+            <channel angle="none" format="1.23" max="false" mean="false" meanvalidity="false" min="false" precision="1" samples="false" spot="true" stddev="false" valuevalidity="false" variance="false">vessel:polarstern:dship1:WEATHER.PAWIBWW.water_temperature</channel>
+                  
+        </channellist>
+           
+    </description>
+    
+</export>
