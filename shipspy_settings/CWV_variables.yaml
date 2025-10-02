@@ -1,0 +1,45 @@
+latitude:
+  axis: Y
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: latitude
+  standard_name: latitude
+  units: degree_north
+  varname: lat
+longitude:
+  axis: X
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: longitude
+  standard_name: longitude
+  units: degree_east
+  varname: lon
+height_e:
+  axis: Z
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: height_ellipsoid
+  standard_name: height_above_reference_ellipsoid
+  units: m
+  varname: height_e
+height_g:
+  axis: Z
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: geoid height
+  standard_name: geoid_height_above_reference_ellipsoid
+  units: m
+  varname: height_g
+iwv:
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: retrieved column-integrated water vapour
+  standard_name: atmosphere_mass_content_of_water_vapor
+  units: kg m-2
+  varname: cwv
+sig_iwv:
+  instrument: Trimble GNSS receiver
+  cell_method: 1-minute mean
+  long_name: formal error for cwv
+  units: kg m-2
+  varname: cwv_sig

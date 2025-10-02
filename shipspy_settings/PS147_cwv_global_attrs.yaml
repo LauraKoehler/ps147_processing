@@ -1,0 +1,19 @@
+title: CWV data from GNSS antenna, RV Polastern, Atlantic Transit, 2025-03-14 to 2025-04-13
+authors: Pierre Bosser, Laura Köhler
+contact: Pierre Bosser (pierre.bosser@ensta.fr)
+institution: ENSTA, Alfred Wegener Institute
+instrument: Trimble GNSS receiver
+platform: RV Polarstern
+description: CWV estimates for RV Polarstern
+history: created on 20250623_152851
+processing_software: GIPSYX v2.2 in PPP mode, GPS+Galileo
+methodology: ZTD are screened using range check and outlier check on both position
+  and ZTD. ZTD are converted to CWV using ERA5 sea level pressure data, 1-hourly,
+  0.25x0.25 deg and VMF1 atmospheric integrated mean temperature, 6-hourly,  2.0x2.5
+  deg. See [Bosser et al., 2021, ESSD] for more information.
+doi: tba
+conventions: CF-1.7
+version: v1.0.0
+reference: tba
+year: 2025
+comment: part of tba
