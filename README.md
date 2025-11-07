@@ -5,7 +5,7 @@ This repository contains references to the atmospheric measurements and their po
 
 The cruise started March 12, 2025 in Stanley, Falkland, and ended April 14, 2025 in Bremerhaven, Germany.
 
-Further general information about the cruise can be found in the [expedition programme](https://epic.awi.de/id/eprint/60028/1/Expedition%20prorgramme%20PS147.pdf) and the [cruise report](UPDATE!).
+Further general information about the cruise can be found in the [expedition programme](https://epic.awi.de/id/eprint/60028/1/Expedition%20prorgramme%20PS147.pdf) and the [cruise report](https://doi.org/10.57738/BzPM_0799_2025).
 
 ## Data sets
 
